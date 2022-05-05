@@ -1,0 +1,48 @@
+{
+    "header": {
+        "x0": "INICIO",
+        "x1": "SOBRE MI",
+        "x2": "PORTAFOLIO",
+        "x3": "SKILLS",
+        "x4": "CONTACTAME"
+    },
+    "me": {
+        "x1": "Hola,",
+        "x2": "Soy Sergio Tejeda",
+        "x3": "web developer",
+        "x4": "Full Stack Developer",
+        "x5": "Contáctame"
+    },
+    "about": {
+        "x0": "Descargar CV  ",
+        "x1": "Skills",
+        "x2": "Actualmente las tecnologías que mejor uso son React, CSS3, HTML5, Node, GIT, JavaScript, MongoDB , Bootstrap y SASS.",
+        "x3": "Como soy un apasionado en el mundo del desarrollo en estos momentos estoy aprendiendo TypeScript y conexiones a tiempo real como es Socket.io.",
+        "x4": "En un futuro no muy lejano también tengo pensado aprender más lenguajes y otro tipo de tecnologías como podria ser Vue JS, testing, redux, next js, docker, etc...",
+        "x5": "Sobre mi:",
+        "x6": "Hasta hace poco estaba enfocado en la contabilidad y las empresas. Desde la pandemia, descubrí la programación y se convirtió en mi hobbie hasta que decidí dar un paso mas formándome como Full Stack Developer.",
+        "x7": "Antes de empezar el curso estuve formándome de manera independiente durante seis meses en HTML, CSS y JavaScript, dentro del Bootcamp he ampliado mis conocimientos (NodeJS, React, Angular, TypeScript...).",
+        "x8": "Tengo ganas de este nuevo reto que me he propuesto y de convertirme en un gran profesional aprendiendo día a día.",
+        "x9": "Vivo en:"
+    },
+    "skils": {
+        "x1": "Skills",
+        "x2": "dfsfasafafaf"
+    },
+    "contact": {
+        "x0": "Contacto",
+        "x1": "Nombre",
+        "x2": "Email",
+        "x3": "Mensaje",
+        "x4": "ENVIAR",
+        "x5": "CANCELAR",
+        "x6": "El mensaje fue enviado correctamente",
+        "x7": "GRACIAS!"
+    },
+    "portfolio": {
+        "x1": "enlace a la página web",
+        "x2": "enlace al front-end",
+        "x3": "enlace al back-end"
+    }
+
+}

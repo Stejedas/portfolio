@@ -1,0 +1,50 @@
+{
+    "header": {
+        "x0": "HOME",
+        "x1": "ABOUT ME",
+        "x2": "PORTFOLIO",
+        "x3": "SKILLS",
+        "x4": "CONTACT"
+    },
+    "me": {
+        "x1": "Hello,",
+        "x2": "I'm Sergio Tejeda",
+        "x3": "web developer",
+        "x4": "Full Stack Developer",
+        "x5": "Contact"
+    },
+    "about": {
+        "x0": "Download CV  ",
+        "x1": "Skills:",
+        "x2": "Currently the technologies I use the most are React, CSS3, HTML5, Node, GIT, JavaScript, MongoDB, Bootstrap and SASS",
+        "x3": "As I am passionate about development, I am currently learning TypeScript and real-time connections like Socket.io.",
+        "x4": "In the not too distant future I also plan to learn more languages and other technologies such as Vue JS, testing, redux, next js, docker, etc...",
+        "x5": "About me:",
+        "x6": "Until recently I was focused on accounting and business. Since the pandemic, I discovered programming and it became my hobby until I decided to take a step further by training as a Full Stack Developer.",
+        "x7": "Before starting the course I was training independently for six months in HTML, CSS and JavaScript, within the Bootcamp I have expanded my knowledge (NodeJS, React, Angular, TypeScript ...).",
+        "x8": "I am looking forward to this new challenge I have set myself and to become a great professional learning day by day.",
+        "x9": "Living in:"
+    },
+    "skils": {
+        "x1": "skills",
+        "x2": "dfsfasafafafafaf"
+    },
+    "contact": {
+        "x0": "Contact",
+        "x1": "Name",
+        "x2": "Email",
+        "x3": "Message",
+        "x4": "SEND",
+        "x5": "CANCEL",
+        "x6": "The message was sent correctly",
+        "x7": "THANK YOU!"
+    },
+    "portfolio": {
+        "x1": "link to the website",
+        "x2": "link to front-end",
+        "x3": "link to back-end"
+    }
+
+
+}
+

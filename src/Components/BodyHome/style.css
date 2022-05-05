@@ -1,0 +1,29 @@
+.buttonContact {
+    padding: 12px 30px;
+    border: 2px rgb(143, 143, 143) solid;
+    background-color: rgb(250, 241, 241, 0.8);;
+    border-radius: 25px;
+}
+
+@media (min-width: 600px) {
+    .imgContact {
+        height: 400px;
+        border-radius: 32px 98px 36px 134px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 1024px) {
+    .imgContact {
+        height: 200px;
+        border-radius: 32px 89px 36px 89px;
+    }
+}
+
+@media (max-width: 425px) {
+    .imgContact {
+        height: 200px;
+        border-radius: 32px 120px 36px 134px;
+        
+        
+    }
+}
