@@ -48,7 +48,7 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav" >
                         <Nav className="d-flex justify-content-end w-100 mx-5 fs-6" >
-                            <Nav.Link href="http://localhost:3000/home" className="mx-2"> {t('header.x0')}</Nav.Link>
+                            <Nav.Link href="http://localhost:3000/" className="mx-2"> {t('header.x0')}</Nav.Link>
                             <Nav.Link href="http://localhost:3000/aboutme" className="mx-2"> {t('header.x1')}</Nav.Link>
                             <Nav.Link href="http://localhost:3000/skills" className="mx-2"> {t('header.x3')}</Nav.Link>
                             <Nav.Link href="http://localhost:3000/portfolios" className="mx-2"> {t('header.x2')}</Nav.Link>
