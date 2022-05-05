@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next"
 import img2 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/WhatsApp Image 2022-04-06 at 12.05.40.jpeg'
 import { useNavigate } from "react-router-dom"
 import emailjs from 'emailjs-com'
-import { Toast,ToastContainer } from "react-bootstrap"
+import { Toast, ToastContainer } from "react-bootstrap"
 
 
 
@@ -29,6 +29,7 @@ export default function BodyHome() {
         emailjs.sendForm('service_m5gaves', 'template_7d06myf', e.target, 'nZ8pq_vJo9drXEAwA').then(res => {
             setShow1(true)
             console.log(res)
+            console.log('JOLA')
         })
         handleClose()
     }
@@ -63,19 +64,19 @@ export default function BodyHome() {
                 </Row>
 
                 <Row>
-                <ToastContainer className="p-3" position='top-start'>
-                    <Toast onClose={() => setShow1(false)} show={show1} delay={3000}  autohide>
-                        <Toast.Header>
-                            <img
-                                src="holder.js/20x20?text=%20"
-                                className="rounded me-2"
-                                alt=""
-                            />
-                            <strong className="me-auto">{t('contact.x7')}</strong>
+                    <ToastContainer className="p-3" position='top-start'>
+                        <Toast onClose={() => setShow1(false)} show={show1} delay={3000} autohide>
+                            <Toast.Header>
+                                <img
+                                    src="holder.js/20x20?text=%20"
+                                    className="rounded me-2"
+                                    alt=""
+                                />
+                                <strong className="me-auto">{t('contact.x7')}</strong>
 
-                        </Toast.Header>
-                        <Toast.Body>{t('contact.x6')}</Toast.Body>
-                    </Toast>
+                            </Toast.Header>
+                            <Toast.Body>{t('contact.x6')}</Toast.Body>
+                        </Toast>
                     </ToastContainer>
                 </Row>
             </Container>
