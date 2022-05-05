@@ -2,7 +2,7 @@ import React, { useTransition, useState } from "react"
 import { Container, Col, Row, Modal, Button, Form } from "react-bootstrap"
 import './style.css'
 import { useTranslation } from "react-i18next"
-import img2 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/WhatsApp Image 2022-04-06 at 12.05.40.jpeg'
+import img2 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/foto.jpeg'
 import { useNavigate } from "react-router-dom"
 import emailjs from 'emailjs-com'
 import { Toast, ToastContainer } from "react-bootstrap"

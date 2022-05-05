@@ -1,6 +1,6 @@
 import React from "react";
 import './style.css'
-import proy1 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/Captura de Pantalla 2022-05-03 a las 22.55.34.png'
+import proy1 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/proy1.png'
 import proy2 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/wheatherapii.png'
 import proy3 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/tetis.png'
 import proy4 from '/Users/sergioylaura/Desktop/PORTAFOLIOS/portafolio/src/Assets/kanba.png'
